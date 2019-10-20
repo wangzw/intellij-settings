@@ -5,6 +5,7 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -12,9 +13,9 @@
     <mask>*.pom</mask>
     <mask>pom.xml</mask>
     <mask>*.js</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.proto</mask>
     <mask>*.yml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
