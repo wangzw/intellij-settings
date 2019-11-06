@@ -1,4 +1,9 @@
 <keymap version="1" name="Eclipse (macOS) copy" parent="Eclipse (Mac OS X)">
+  <action id="ClangFormat.ClangFormatAuto">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="Console.TableResult.CompareCells" />
+  <action id="Diff.ShowSettingsPopup" />
   <action id="Find">
     <keyboard-shortcut first-keystroke="meta f" />
   </action>
@@ -6,4 +11,6 @@
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
   <action id="RunToCursor" />
+  <action id="TagDocumentationNavigation" />
+  <action id="Uml.ShowDiff" />
 </keymap>
