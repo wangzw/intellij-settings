@@ -18,12 +18,12 @@
     <mask>*.pom</mask>
     <mask>pom.xml</mask>
     <mask>*.xml</mask>
-    <mask>*.js</mask>
     <mask>*.ftl</mask>
     <mask>*.java</mask>
     <mask>*.proto</mask>
     <mask>*.notation</mask>
     <mask>*.uml</mask>
     <mask>*.yml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
