@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="mvnw" type="PLAIN_TEXT" />
+      <mapping pattern="default_vagrant_file" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping ext="proto" type="PLAIN_TEXT" />
     </extensionMap>
